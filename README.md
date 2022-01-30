@@ -11,7 +11,7 @@ I am a 2nd year student of Computer Science. I love sharing my knowledge and exp
 💻 Working on many projects.<br>
 <br>
 <b>You can connect with me on</b>
-<a href="https://linkedin.com/in/ruchi-parihar-06b497201/">LinkedIn</a>
+<a href="https://linkedin.com/in/ruchi-parihar-06b497201/" target="_blank">LinkedIn</a>
 
 
 <h2>Summary</h2>
@@ -45,4 +45,4 @@ Frameworks, Platforms and Libraries
 
 <h2>🔗 Connect with me</h2>
 
-<a href="https://linkedin.com/in/ruchi-parihar-06b497201/"><img src="https://user-images.githubusercontent.com/82935329/151665588-fde5bc90-645b-4d30-88f0-27be9d5266f4.png" height="40" width="40"></a>   <a href="https://www.instagram.com/ruchie194/"><img src="https://user-images.githubusercontent.com/82935329/151665521-8a5cb034-1e8d-42ed-b766-6a04ce9ac752.png" height="40" width="40"></a>
+<a href="https://linkedin.com/in/ruchi-parihar-06b497201/" target="_blank"><img src="https://user-images.githubusercontent.com/82935329/151665588-fde5bc90-645b-4d30-88f0-27be9d5266f4.png" height="40" width="40"></a>   <a href="https://www.instagram.com/ruchie194/" target="_blank"><img src="https://user-images.githubusercontent.com/82935329/151665521-8a5cb034-1e8d-42ed-b766-6a04ce9ac752.png" height="40" width="40"></a>
